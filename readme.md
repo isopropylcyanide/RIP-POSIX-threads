@@ -1,3 +1,15 @@
+USAGE: 
+
+1) Clone the repository
+2) Create a new branch on local
+3) Merge changes from remote on to the local branch
+4) Work and push changes 
+
+WORK:
+
+1) Type 'make' in the terminal for the output (already provided makefile)
+1) Add the changes to tge C source
+
 This is a very light implementation of Routing Information Protocol (Networking) using POSIX Threads.
 
 The idea is to have some n number of files in the directory names ($n.txt). These files represent routers. 
